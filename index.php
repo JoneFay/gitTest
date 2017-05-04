@@ -1,3 +1,3 @@
 <?php
 
-	echo 'hello,git,to change';
+	echo 'hello,git,to changes';
